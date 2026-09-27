@@ -195,5 +195,11 @@ The project can serve as a strong **AI + Full-Stack Development project** becaus
 
 
 
+http://localhost:5173/%E2%80%9D
+
+
+https://github.com/subashmohanraj08-pixel/legalease-ai-doc-generator
+
+
 
 A [project](https://livecodes.io/?x=https://github.com/subashmohanraj08-pixel/legalease-ai-doc-generator/tree/gh-pages/src) created by [SUBASH M](https://github.com/subashmohanraj08-pixel) on [LiveCodes](https://livecodes.io).
