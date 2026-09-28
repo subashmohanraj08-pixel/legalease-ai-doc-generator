@@ -193,6 +193,9 @@ The project focuses on reducing the complexity of creating structured legal-docu
 The project can serve as a strong **AI + Full-Stack Development project** because it combines frontend development, backend APIs, databases, authentication, AI integration, document processing, security, and real-world problem solving into one application.
 
 
+https://vercel.com/subashmohanraj08-4011s-projects/legalease-ai-doc-generator/4JDWUSyxXHsN2skEiNgLgXWU5ebL
+
+
 
 
 http://localhost:5173/%E2%80%9D
